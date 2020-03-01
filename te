@@ -1,0 +1,159 @@
+************IPTV LOKAL***********************
+
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV NASIONAL",TVRI
+https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV
+http://210.210.155.35/session/ce9a34fe-1aa3-11ea-975d-ad15b46102b5/qwr9ew/s/s102/01.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL", MNC TV
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL", MNC TV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/5
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RCTI HD
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",GLOBALTV HD
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",TV ONE HD
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",TRANS7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",METRO TV 
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INEWS HD
+https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",NET TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RTV
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL", KOMPAS TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",BERITA SATU 
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w800726314_b384000_sleng.m3u8
+
+************IPTV LOKAL***********************
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/400px-Disney_XD_-_2015.svg.png" group-title="KIDS",Disney XD
+http://195.206.253.157:9201/disneyxd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/440px-Disney_Channel_logo_%282014%29.svg.png" group-title="KIDS",Disney Channel HD
+http://195.206.253.157:12401/disneychannel
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo HD
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/440px-Disney_Channel_logo_%282014%29.svg.png" group-title="KIDS",DISNEY CHANNEL ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+************HIBURAN***********************
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="HIBURAN",AXN (ID)
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
+************BELLA*************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="BELLA", MNC TV
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="BELLA", My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="BELLA", Net TV (Opt-1)
+http://210.210.155.35/session/4001df9c-58a3-11ea-b5e2-a6aba58dfd8d/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="BELLA", Net TV (Opt-2)
+https://etslive-2-vidio-com.akamaized.net/exp=1582641306~acl=/hls-p/ingest_875_*/*~hmac=714676edd81ea1169ef548aac10cbe0c9e30467a14c4f6cc6c5bd16c55a11689/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="BELLA", Net TV (Opt-3)
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="BELLA", Rajawali TV (Opt-3)
+http://202.80.222.170:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="BELLA", Rajawali TV (Opt-4)
+http://45.126.83.51/qwr9ew/s/s12/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="BELLA", Rajawali TV (Opt-5)
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+rcti/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", RAJAWALI TV HD
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", INDOSIAR HD 1
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", INDOSIAR HD 2
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", MNC NEWS HD
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", INEWSTV HD
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="BELLA", SCTV 1
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="BELLA", SCTV 2
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", SCTV HD
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="BELLA", TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="BELLA", TRANS 7 1
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="BELLA", Trans 7
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="BELLA", Trans 7 2
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="BELLA", Trans TV 1
+http://id2.indostreamingtv.com:80/live/tv33/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="BELLA", Trans TV 2
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2931201906232251491158010
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="BELLA", Trans TV 3
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="BELLA", Trans TV (Opt-4)
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="BELLA", Trans TV (Opt-5)
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="BELLA", TVRI (Opt-1)
+http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="BELLA", TVRI (Opt-2)
+http://45.126.83.51/qwr9ew/s/s11/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="BELLA", TRANS 7
+http://id2.indostreamingtv.com:80/live/trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="BELLA", INDOSIAR
+http://id1.indostreamingtv.com:80/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1843041589.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", J'go
+http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1200px-Kompas_TV.svg.png"group-title="BELLA",KOMPAS TV
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", KOMPAS TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7.m3u8?0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", DANGDUT TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", BERITA SATU HD
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA",MNCVISION
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", TVRI
+http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", JTV SURABAYA
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", CNN INDONESIA SD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w9390699_b192000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1482161906_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZFMSVgwJGeGXhZKv83kcH3LlVS3WkpWRrld6GVWHDznY2t8UO" group-title="BELLA", CNBC(HW+)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2044219992_b384000_sleng.m3u8
